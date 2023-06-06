@@ -1,0 +1,1 @@
+{"id":"bc79529d-a057-4906-9aa1-c5ddcdd1e379","space":39509,"runtime":"nodejs14.x","name":"sv-mirage-movies","path":"a4zqpc","project":"b0dyesd1","account":"144798365827","region":"us-east-1","deps":["express@^4.18.2"],"envs":null,"public":false,"log_level":"off","cron":""}
