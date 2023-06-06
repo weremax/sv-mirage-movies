@@ -1,7 +1,7 @@
 var app = angular.module('app', ['ngResource']);
 
 app.factory('Movie', function($resource) {
-    return $resource('../js/movies.json');
+    return $resource('./public/js/movies.json');
 });
 
 app.controller('mainCtrl', function($scope, Movie) {
