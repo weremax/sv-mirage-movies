@@ -28,7 +28,12 @@
         <small>Number of Movies ({{vm.movies.length}}) of ({{ vm.count.length }})</small><br/><br/>
         
         <ul class="movies">
-            <li ng-repeat="movie in vm.movies = (movies | filter: vm.search) | orderBy: 'name'" class={{movie.selected}}>{{ movie.name }} <span class="volume">{{ movie.volume ? 'V:' + movie.volume : '' }} &nbsp; {{ movie.disk ? 'D:' + movie.disk : '' }}</span></li>
+            <li ng-repeat="movie in vm.movies = (movies | filter: vm.search) | orderBy: 'name'" class={{movie.selected}}>{{ movie.name }}
+                <span class="volume">
+                    {{ movie.volume ? 'V:' + movie.volume : '' }} 
+                    &nbsp; {{ movie.disk ? 'D:' + movie.disk : '' }}
+                </span>
+            </li>
             <li ng-if="!vm.movies.length"><span class="noRecords">No Record Found.</span></li> 
         </ul>
     </div>
