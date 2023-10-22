@@ -5589,7 +5589,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Bill & Ted's Excellent Adventure",
@@ -5597,7 +5597,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Madea's Family Reunion",
