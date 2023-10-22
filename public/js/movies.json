@@ -5557,7 +5557,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "True Lies",
@@ -5581,7 +5581,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Meet The Browns",
@@ -5613,6 +5613,6 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     }
 ]
