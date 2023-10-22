@@ -981,7 +981,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "         "
+        "selected": "notgood"
     },
     {
         "name": "Willy Wonka & The Chocolate Factory",
@@ -989,7 +989,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "The Nightmare Before Christmas",
@@ -5573,7 +5573,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "There's Something About Mary",
