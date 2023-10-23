@@ -1013,7 +1013,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "notgood"
     },
     {
         "name": "How To Train Your Dragon 2",
@@ -1021,7 +1021,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Finding Nemo",
