@@ -8,6 +8,7 @@ app.controller('mainCtrl', function($scope, Movie) {
     $scope.movies = Movie.query();
     this.movies = $scope.movies;
     this.count = $scope.movies;
+    document.forms['myForm'].elements['search'].focus();
 
     this.clear = () => {
         this.search = "";
