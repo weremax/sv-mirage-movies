@@ -4029,7 +4029,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Honey",
@@ -4792,12 +4792,12 @@
         "selected": "selected"
     },
     {
-        "name": "The Black Book",
+        "name": "Little Black Book",
         "volume": "",
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Animal House",
@@ -4861,7 +4861,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Heathers",
@@ -5133,7 +5133,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "notgood"
+        "selected": "selected"
     },
     {
         "name": "The Wraith",
@@ -5253,7 +5253,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Transylvania 6-5000",
@@ -5261,7 +5261,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Remo Williams: The Adventure Begins",
