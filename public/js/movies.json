@@ -4269,7 +4269,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "The Legend Of Zorro",
@@ -5013,7 +5013,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Divine Secrets Of The Ya-Ya Sisterhood",
