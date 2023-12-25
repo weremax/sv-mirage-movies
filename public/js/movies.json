@@ -349,7 +349,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Waiting...",
@@ -493,7 +493,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "The Devil Wears Prada",
@@ -4429,7 +4429,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "notgood"
     },
     {
         "name": "Along Came Polly",
