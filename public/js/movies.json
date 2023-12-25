@@ -437,7 +437,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Sixteen Candles",
@@ -741,7 +741,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Say Anything",
@@ -4349,7 +4349,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Chasing Liberty",
@@ -4712,12 +4712,12 @@
         "selected": "selected"
     },
     {
-        "name": "Nine",
+        "name": "Nine (2009)",
         "volume": "",
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Woman On Top",
@@ -5622,5 +5622,13 @@
         "actors": "",
         "genre": "",
         "selected": "selected"
+    },
+    {
+        "name": "Magic Mike XXL",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
     }
 ]
