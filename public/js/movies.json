@@ -381,7 +381,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Captain Ron",
@@ -549,7 +549,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Jupiter Ascending",
@@ -557,7 +557,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Jumper",
@@ -565,7 +565,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Now You See Me",
@@ -621,7 +621,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Fifty Shades Of Grey",
@@ -1813,7 +1813,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Pirates Of The Caribbean The Curse Of The Black Pearl",
