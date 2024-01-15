@@ -5630,5 +5630,29 @@
         "actors": "",
         "genre": "",
         "selected": "selected"
+    },
+    {
+        "name": "The Librarian: Quest For The Spear",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "The Librarian: Return To King Solomon's Mine",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "The Librarian: Curse Of The Judas Chalice",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
     }
 ]
