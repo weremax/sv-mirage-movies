@@ -5637,7 +5637,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "The Librarian: Return To King Solomon's Mine",
@@ -5645,7 +5645,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "The Librarian: Curse Of The Judas Chalice",
@@ -5653,6 +5653,6 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     }
 ]
