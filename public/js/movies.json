@@ -5661,7 +5661,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "selected"
+        "selected": ""
     },
     {
         "name": "The Evil Dead",
@@ -5669,7 +5669,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "selected"
+        "selected": ""
     },
     {
         "name": "Spartacus Blood And Sand",
@@ -5677,7 +5677,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "selected"
+        "selected": ""
     },
     {
         "name": "Simply Irresistible",
@@ -5685,7 +5685,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "selected"
+        "selected": ""
     },
     {
         "name": "Just Go With It",
@@ -5693,7 +5693,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "selected"
+        "selected": ""
     },
     {
         "name": "I Hope They Serve Beer In Hell",
@@ -5701,7 +5701,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "selected"
+        "selected": ""
     },
     {
         "name": "Dance With Me",
@@ -5709,7 +5709,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "selected"
+        "selected": ""
     },
     {
         "name": "Club Dread",
@@ -5717,7 +5717,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "selected"
+        "selected": ""
     },
     {
         "name": "The Rocky Horror Picture Show",
@@ -5725,6 +5725,6 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "selected"
+        "selected": ""
     }
 ]
