@@ -1005,7 +1005,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "notgood"
+        "selected": "new copy"
     },
     {
         "name": "How To Train Your Dragon",
@@ -5721,6 +5721,174 @@
     },
     {
         "name": "The Rocky Horror Picture Show",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Sound Of Thunder",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Jumpin' Jack Flash",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Laws Of Attraction",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Mr. Deeds",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "John Carter",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "The Day The Earth Stood Still",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Shallow Hal",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Odd Jobs",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Superman III",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Chasing Amy",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Les Miserables",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Cheaper By The Dozen",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Take The Lead",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Eddie Murphy Raw",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Dirty Dancing Havana Nights",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Stigmata",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Hitman's Run",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "The Toy",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "Rat Race",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "The Whole Ten Yards",
+        "volume": "",
+        "disk": "",
+        "actors": "",
+        "genre": "",
+        "selected": ""
+    },
+    {
+        "name": "The Dukes Of Hazzard",
         "volume": "",
         "disk": "",
         "actors": "",
