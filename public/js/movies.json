@@ -1005,7 +1005,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": "new copy"
+        "selected": "selected"
     },
     {
         "name": "How To Train Your Dragon",
@@ -5389,7 +5389,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Iron Man 3",
@@ -5733,7 +5733,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "notgood"
     },
     {
         "name": "Jumpin' Jack Flash",
@@ -5765,7 +5765,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "The Day The Earth Stood Still",
@@ -5773,7 +5773,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Shallow Hal",
@@ -5781,7 +5781,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Odd Jobs",
@@ -5789,7 +5789,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Superman III",
@@ -5797,7 +5797,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Chasing Amy",
@@ -5805,7 +5805,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Les Miserables",
@@ -5821,7 +5821,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Take The Lead",
@@ -5853,7 +5853,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Hitman's Run",
@@ -5869,7 +5869,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Rat Race",
@@ -5877,7 +5877,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "The Whole Ten Yards",
@@ -5885,7 +5885,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "The Dukes Of Hazzard",
@@ -5893,6 +5893,6 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     }
 ]
