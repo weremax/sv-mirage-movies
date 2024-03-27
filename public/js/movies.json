@@ -1621,7 +1621,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "notgood"
     },
     {
         "name": "Constantine",
@@ -1645,7 +1645,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "notgood"
     },
     {
         "name": "Hellboy II The Golden Army",
@@ -1653,7 +1653,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "notgood"
     },
     {
         "name": "Ghost Rider",
@@ -1853,7 +1853,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "notgood"
     },
     {
         "name": "Sweeney Todd The Demon Barber Of Fleet Street",
@@ -3957,7 +3957,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "We Were Soldiers",
@@ -5365,7 +5365,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Young Frankenstein",
@@ -5661,7 +5661,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "The Evil Dead",
@@ -5669,7 +5669,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Spartacus Blood And Sand",
@@ -5685,7 +5685,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Just Go With It",
@@ -5693,7 +5693,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "I Hope They Serve Beer In Hell",
@@ -5709,7 +5709,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Club Dread",
@@ -5717,7 +5717,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "The Rocky Horror Picture Show",
@@ -5725,7 +5725,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Sound Of Thunder",
@@ -5741,7 +5741,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Laws Of Attraction",
@@ -5829,7 +5829,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Eddie Murphy Raw",
@@ -5845,7 +5845,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "Stigmata",
@@ -5861,7 +5861,7 @@
         "disk": "",
         "actors": "",
         "genre": "",
-        "selected": ""
+        "selected": "selected"
     },
     {
         "name": "The Toy",
